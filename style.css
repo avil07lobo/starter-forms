@@ -1,0 +1,13 @@
+label {
+    display: block;
+}
+
+input, label, textarea {
+    padding: 0.4rem;
+    width: 95%;
+    margin: 0.4rem;
+}
+
+button {
+    margin: 0.4rem;
+}
